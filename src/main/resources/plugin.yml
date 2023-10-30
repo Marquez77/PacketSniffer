@@ -1,0 +1,9 @@
+name: PacketSniffer
+main: me.marquez.packetsniffer.PacketSniffer
+version: ${version}
+api-version: 1.18
+author: DevMarquez
+depend: [ProtocolLib]
+commands:
+  packets:
+    description:
